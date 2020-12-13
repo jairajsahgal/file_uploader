@@ -12,4 +12,8 @@ pip install -r requirements.txt
 python main.py
 ```
 
-
+#Future Enhancements
+* Multiple File Support.
+* Automatic Extension Recognition.
+* More GUI for non-command line people.
+* Voice Assistance.
