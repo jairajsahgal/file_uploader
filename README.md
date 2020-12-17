@@ -12,6 +12,7 @@ pip install -r requirements.txt
 python main.py
 ```
 # How to use program
+
 [Program working](https://github.com/jairajsahgal/file_uploader/main/simplescreenrecorder-2020-12-12_21.59.29.gif)
 
 # Working
