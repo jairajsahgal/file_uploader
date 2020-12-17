@@ -13,7 +13,7 @@ python main.py
 ```
 # How to use program
 
-<img src="https://github.com/jairajsahgal/file_uploader/main/simplescreenrecorder-2020-12-12_21.59.29.gif" width="800"/>
+<img src="https://raw.githubusercontent.com/jairajsahgal/file_uploader/main/simplescreenrecorder-2020-12-12_21.59.29.gif" width="800"/>
 
 # Working
 The project uses python programming language, Using tkinter library, it gets the location of the file using GUI.
