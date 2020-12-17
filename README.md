@@ -13,7 +13,7 @@ python main.py
 ```
 # How to use program
 
-[Program working](https://github.com/jairajsahgal/file_uploader/main/simplescreenrecorder-2020-12-12_21.59.29.gif)
+![Program working](https://github.com/jairajsahgal/file_uploader/main/simplescreenrecorder-2020-12-12_21.59.29.gif)
 
 # Working
 The project uses python programming language, Using tkinter library, it gets the location of the file using GUI.
