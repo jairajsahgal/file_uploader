@@ -1,5 +1,5 @@
 # Description
-Upload your file and get link.
+Upload your file and get link and create a QRcode for the link.
 
 # Requirements
 * python3
